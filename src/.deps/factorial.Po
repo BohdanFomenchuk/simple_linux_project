@@ -1,0 +1,3 @@
+src/factorial.o: src/factorial.c /usr/include/stdc-predef.h calc.h
+/usr/include/stdc-predef.h:
+calc.h:

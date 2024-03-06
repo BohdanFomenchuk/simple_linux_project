@@ -1,0 +1,3 @@
+src/difference.o: src/difference.c /usr/include/stdc-predef.h calc.h
+/usr/include/stdc-predef.h:
+calc.h:
